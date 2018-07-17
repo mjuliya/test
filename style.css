@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 900px;
+    background: #c194c7
+}
+.toch li {
+    list-style: none;
+}
+header {
+    margin: auto;
+    width: 90%;
+    height: 15%;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    background-color: blue
+}
+.block {
+    position: fixed;
+    width: 20%;
+    height: 65%;
+    border-top-right-radius: 87px;
+    border-bottom-left-radius: 87px;
+    background-color: rgb(71, 5, 156);
+ }
+.menu {
+    height: 90%;
+    width: 10%;
+    background-color: transparent;
+}
+.content {
+    margin-left: 15%;
+    padding-right: 30px;
+}
+footer {
+    width: 90%;
+    height: 15%;
+    bottom: 0;
+    left: 10%;
+    position: fixed;
+    text-align: center;
+    background-color: tomato;
+    border-top-left-radius: 40px;
+}
