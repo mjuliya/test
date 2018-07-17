@@ -16,17 +16,18 @@ header {
     background-color: blue
 }
 .block {
+    height: 80%;
+    width: 30%;
+    background-color: black;
+    
+     }
+.menu {
     position: fixed;
     width: 20%;
     height: 65%;
     border-top-right-radius: 87px;
     border-bottom-left-radius: 87px;
     background-color: rgb(71, 5, 156);
- }
-.menu {
-    height: 90%;
-    width: 10%;
-    background-color: transparent;
 }
 .content {
     margin-left: 15%;
